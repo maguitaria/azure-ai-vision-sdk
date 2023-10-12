@@ -15,8 +15,8 @@ class Secrets {
 
     // These are the names of the environment variables you can set if you want to specify
     // secrets using environment variables instead of command-line arguments
-    public static final String ENVIRONMENT_VARIABLE_KEY = "VISION_KEY";
-    public static final String ENVIRONMENT_VARIABLE_ENDPOINT = "VISION_ENDPOINT";
+    public static final String ENVIRONMENT_VARIABLE_KEY = "a35afe957ae34d648b38c8a4bb703c4d";
+    public static final String ENVIRONMENT_VARIABLE_ENDPOINT = "https://maguitaria.cognitiveservices.azure.com/";
 
     private static String key;
     private static String endpoint;
